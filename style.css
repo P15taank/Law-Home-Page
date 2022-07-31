@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: "Red Rose", cursive; */
+  }
+  .container
+  {
+    background-color:#483C32;
+    height: 450px;
+    
+  }
+  
+  /* ------------------------------ */
+  /* ---------- NAVBAR ------------ */
+  /* ------------------------------ */
+  .navbar
+  {
+    padding: 10px;
+    margin: 10px;
+  }
+  .navbar div img {
+    position: relative;
+    top: 20px;
+    left: 50px;
+    height: 40px;
+   
+  }
+  
+  .list {
+    position: absolute;
+    top: 10px;
+    left: 400px;
+  }
+  .list-item {
+    position: relative;
+    top: 0px;
+    left: 100px;
+    font-size: large;
+    display: inline-block;
+    color:#ffffff;
+    font-weight: bold;
+    padding: 30px;
+    margin: 15px;
+  }
+  
+  .button-small {
+    position: absolute;
+    top: 50px;
+    right: 100px;
+    background-color: transparent;
+    color: #ffffff;
+    border: 2px solid rgb(225, 141, 14);
+    border-radius: 12px;
+    height: 40px;
+    width: 122px;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+    color: rgb(225, 141, 14);
+
+  }
+
+  /* hero section */
+  .hero {
+    position: relative;
+    top: 0px;
+  }
+  .hero-heading {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    color: #ffffff;
+    width: 557px;
+    font-size: 71px;
+    font-weight: bolder;
+    text-align: center;
+
+  }
+
+  .description {
+    position: relative;
+    top: 138px;
+    left: 825px;
+    width: 330px;
+    /* text-align: center; */
+    font-size: 18px;
+    color: #bfbaba;
+  }
+  .img
+  {
+  position: relative;
+  top: 293px;
+ 
+  }
+
+  .img img
+  {
+    width: 100%;
+  }
