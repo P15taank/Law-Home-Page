@@ -12,4 +12,4 @@
 ## Time Spent
 I spent 20 min to complete this project
 ## Live Link
-You can preview the project [Here]()
+Preview the project [Here]()
