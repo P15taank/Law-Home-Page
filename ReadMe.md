@@ -6,11 +6,10 @@
 - HTML
 - CSS
 ## Screenshot
-![Project 2](./p2.png)
+![Project 1](./assets/P3.png)
 ## What I have learn in this project
-- Learned about linear-gradient().
-- Learned about all the background properties.
+- Learn about how to add transperent buttons to the projects.
 ## Time Spent
-I spent 2 hours to complete this project
+I spent 20 min to complete this project
 ## Live Link
-Preview the project [Here](https://resta-urant.netlify.app/)
+You can preview the project [Here]()
