@@ -6,7 +6,7 @@
 - HTML
 - CSS
 ## Screenshot
-![Project 1](./assets/P3.png)
+![Project3](./assets/P3.png)
 ## What I have learn in this project
 - Learn about how to add transperent buttons to the projects.
 ## Time Spent
